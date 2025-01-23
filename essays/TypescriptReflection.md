@@ -6,12 +6,12 @@ title: "My First Steps with TypeScript and Athletic Software Engineering"
 date: 2025-01-23
 published: true
 labels:
-  - Typescript
+  - Software Engineering
   - Javascript
-  - WOD
+  - Programming
 ---
 
-<img class="float-start pe-4" src="../img/javascripticon.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.png">
 
 When I first learned about TypeScript, I wasn't sure what to expect. With experience in languages like C, C++, and Python, I felt confident programming fundamentals, but I hadn't worked with scripting languages like JavaScript before. As I completed exercises on freeCodeCamp and W3Schools, I learned that TypeScript is a tool designed to bring structure, clarity, and a sense of order to JavaScript by enforcing static typing and improving code reliability.
 
