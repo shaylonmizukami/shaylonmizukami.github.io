@@ -15,7 +15,7 @@ labels:
 
 When I first learned about TypeScript, I wasn't sure what to expect. With experience in languages like C, C++, and Python, I felt confident programming fundamentals, but I hadn't worked with scripting languages like JavaScript before. As I completed exercises on freeCodeCamp and W3Schools, I learned that TypeScript is a tool designed to bring structure, clarity, and a sense of order to JavaScript by enforcing static typing and improving code reliability.
 
-__
+<br/>
 ## Exploring TypeScript's Features
 JavaScript is known for its dynamism and lack of strict type enforcement, which is both its greatest strength and biggest weakness. While it enables rapid prototyping, it also leaves room for hard-to-trace bugs. TypeScript adds type annotations, interfaces, and more tools to JavaScript, which makes it feel similar to several features of C++ and Python. TypeScript offers the safety of static typing without getting rid of the flexibility developers love about JavaScript.
 Although my experience with TypeScript is limited to a basic quiz and introductory lessons, I have already gained an appreciation for some of its features, particularly type inference. Type inference allows the compiler to deduce variable types without explicit annotations, which creates a balance between safety and convenience. These lessons also introduced me to ES6 features like destructuring and arrow functions, which are commonly used in TypeScript. These features enhance readability and align with TypeScript's goal of writing clean, concise code. While these features are in JavaScript, working with them in TypeScript showed me how they complement the language's focus on clean and concise code
@@ -30,3 +30,5 @@ WODs also helped me identify areas for improvement, such as debugging faster or 
 
 ## Conclusion
 TypeScript and athletic software engineering have challenged me to develop skills in ways I didn't expect. TypeScript's focus on structure and safety has increased my understanding of programming best practices, while athletic software engineering has pushed me to develop resilience under pressure. Although I am still a beginner in both areas, I'm excited to continue exploring them and integrating these lessons into my software development journey.
+
+Used ChatGPT for spelling and grammar correction/suggestions.
