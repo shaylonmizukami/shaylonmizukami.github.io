@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/TopDownRPG.png
 title: "Top Down RPG"
 date: 2024
 published: true
