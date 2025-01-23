@@ -4,7 +4,7 @@ type: project
 image: img/vacay/vacay-square.png
 title: "Top Down RPG"
 date: 2024
-published: false
+published: true
 labels:
   - C++
   - Unreal Engine
