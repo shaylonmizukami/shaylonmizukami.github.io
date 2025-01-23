@@ -32,4 +32,6 @@ WODs also helped me identify areas for improvement, such as debugging faster or 
 ## Conclusion
 TypeScript and athletic software engineering have challenged me to develop skills in ways I didn't expect. TypeScript's focus on structure and safety has increased my understanding of programming best practices, while athletic software engineering has pushed me to develop resilience under pressure. Although I am still a beginner in both areas, I'm excited to continue exploring them and integrating these lessons into my software development journey.
 
-Used ChatGPT for spelling and grammar correction/suggestions.
+<br/>
+
+The essay above used ChatGPT for spelling and grammar correction/suggestions.
