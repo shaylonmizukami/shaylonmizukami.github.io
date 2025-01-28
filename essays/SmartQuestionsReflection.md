@@ -16,13 +16,13 @@ In software engineering, communication is not just about writing code but about 
 
 ## The Smart Question
 
-[**Why is processing a sorted awway faster than processing an unsorted array?**](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+[**Why is processing a sorted array faster than processing an unsorted array?**](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 In this question on Stack Overflow, a developer observed a performance anomaly in C++ and Java code: sorted arrays were processed faster than unsorted ones. The question included detailed code snippets, benchmarks, and hypotheses about CPU branch prediction. The developer demonstrated prior research by referencing related concepts like compiler optimizations and hardware behavior. 
 
 The question aligns with Raymond's Principles:
-\* **Clarity and Specificity:** The title briefly states the problem, while the body provides context, code, and observed behavior.
-\* **Prior Effort:** The original poster tested code in multiple languages and speculated on causes, showing initiative.
-\* **Reproducibility:** Code examples allowed others to replicate the issue, enabling targeted solutions.
+- **Clarity and Specificity:** The title briefly states the problem, while the body provides context, code, and observed behavior.
+- **Prior Effort:** The original poster tested code in multiple languages and speculated on causes, showing initiative.
+- **Reproducibility:** Code examples allowed others to replicate the issue, enabling targeted solutions.
 
 The thread received over 27,000 upvotes and 30+ answers and discussions from the community. The top response explained branch prediction with analogies (e.g. railroad switches) and linked to CPU architecture documentation. One answer included a visual demonstration of branch misprediction penalties. The discussions on the post resolved the issue and helped the community's understanding of low-level performance optimization.
