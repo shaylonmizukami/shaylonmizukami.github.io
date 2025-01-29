@@ -50,3 +50,5 @@ In contrast, poorly written questions lead to wasted effort and missed learning 
 Asking smart questions is not just a skill but a responsibility. By following Raymond's guidelines, developers can turn ambiguity into clarity, which encourages collaboration and learning. Whether optimizing code or debugging assignments, the principles of clarity, effort, an respect remain universal.
 
 <br>
+
+The essay above used DeepSeek for spelling and grammar correction/suggestions.
