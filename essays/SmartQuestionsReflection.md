@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Smart Questions"
+title: "The Art of Asking Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
@@ -14,7 +14,7 @@ labels:
 
 In software engineering, communication is not just about writing code but about fostering collaboration. Eric Raymond's essay *How to Ask Questions the Smart Way* provides a blueprint for effective interaction in open-source communities. This essay explores the visible impact of "smart" versus "not smart" questions on platforms like Stack Overflow, analyzing real-world examples to demonstrate how following Raymond's principles shape problem-solving outcomes.
 
-## The Art of Asking Smart Questions
+## The Smart Question
 
 **Title:** [**Why is processing a sorted array faster than processing an unsorted array?**](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
