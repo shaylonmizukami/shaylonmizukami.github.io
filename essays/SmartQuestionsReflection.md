@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<!--*<img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.png">-->
+<img width="300px" class="rounded float-start pe-4" src="../img/SmartQuestions.jpg">
 
 In software engineering, communication is not just about writing code but about fostering collaboration. Eric Raymond's essay *How to Ask Questions the Smart Way* provides a blueprint for effective interaction in open-source communities. This essay explores the visible impact of "smart" versus "not smart" questions on platforms like Stack Overflow, analyzing real-world examples to demonstrate how following Raymond's principles shape problem-solving outcomes.
 
