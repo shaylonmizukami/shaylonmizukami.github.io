@@ -11,7 +11,7 @@ labels:
   - VSCode
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/SmartQuestions.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/CodingStandards.png">
 
 Coding standards often get dismissed as trivial rules about indentation, brace placement, or variablee naming conventions. However, I bbelieve they serve a much more important purpose. If I had to choose only one software engineering practice to improve code quality, it would be coding standards, since they are not just about style but they influence maintainability, collaboration, and even how we learn a programming language.
 
