@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beyond Indentation: How Coding Standards Shape Mastery and Collaboration in Software Engineering"
+title: "The Power of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
