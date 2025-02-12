@@ -15,6 +15,8 @@ labels:
 
 Coding standards often get dismissed as trivial rules about indentation, brace placement, or variablee naming conventions. However, I bbelieve they serve a much more important purpose. If I had to choose only one software engineering practice to improve code quality, it would be coding standards, since they are not just about style but they influence maintainability, collaboration, and even how we learn a programming language.
 
+<br>
+
 ## Coding Standards as a Learning Tool
 
 When learning a new language, sticking to established coding standards can accelerate comprehension. ESLint, for instance, enforces best practices in JavaScript and TypeScript, which makes it easier to recognize patterns, avoid common pitfalls, annd write more efficient and cleaner code. It also prevents bad habits from forming early on, making sure that code remains readable and functional even as projects grow in complexity. For example, ESLint flags unused variables and improper scoping, reinforcing JavaScript's lexical scopinig rules. Without these enforces standards, a beginner like me might repeatedly make subtle mistakes that lead to bugs and inefficiencies. Therefore, coding standards guide developes toward writing better code.
