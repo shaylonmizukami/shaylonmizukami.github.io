@@ -32,3 +32,7 @@ Coding standards are important for team-based development. A well-structured cod
 ## Conclusion
 
 My experience with coding standards through ESLint in VSCode has been both challenging and informative. While it was frustrating initially, these standards are a valuable tool for learning and improving maintainability and collaboration. Rather than viewing them as just syntactic constraints, we should accept coding standards as a fundamental practice that improves software quality at every level. In the long run, good coding standards lead to better developers, cleaner code, and more efficient teamwork, which makes them an indispensable part of software engineering.
+
+<br><br>
+
+The essay above used ChatGPT for spelling and grammar correction/suggestions.
