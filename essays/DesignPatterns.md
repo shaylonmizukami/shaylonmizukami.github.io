@@ -10,7 +10,7 @@ labels:
   - architecture
 ---
 
-<img width="1500px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
 
 When I first encountered the concept of design patterns in software engineering, I'll admit I was skeptical. The term itself sounded overly formal and academic, conjuring images of rigid templates that would constrain my creativity as a programmer. Like many beginners, I initially dismissed them as something only enterprise developers working on massive systems needed to worry about. However, as I progressed in my studies and began working on more complex projects, I came to realize that design patterns are far from restrictive - they're actually liberating tools that help solve recurring problems in elegant, maintainable ways.
 
