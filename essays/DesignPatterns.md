@@ -10,13 +10,11 @@ labels:
   - architecture
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
+<img width="1080px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
 
 When I first encountered the concept of design patterns in software engineering, I'll admit I was skeptical. The term itself sounded overly formal and academic, conjuring images of rigid templates that would constrain my creativity as a programmer. Like many beginners, I initially dismissed them as something only enterprise developers working on massive systems needed to worry about. However, as I progressed in my studies and began working on more complex projects, I came to realize that design patterns are far from restrictive - they're actually liberating tools that help solve recurring problems in elegant, maintainable ways.
 
 What changed my perspective was understanding that design patterns aren't about prescribing exact solutions, but rather about capturing the essence of proven approaches to common software design challenges. They represent the collective wisdom of decades of software engineering experience, distilled into reusable blueprints. I began to see them not as constraints, but as a shared vocabulary that helps developers communicate complex ideas efficiently and build upon established best practices rather than reinventing solutions from scratch.
-
-<br><br>
 
 ## Patterns as Shared Vocabulary
 
