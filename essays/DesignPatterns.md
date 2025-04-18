@@ -12,7 +12,9 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
 
-When I first heard the term *design patterns*, I imagined something rigid—like cookie-cutter solutions that programmers copy and paste into their code. But as I explored further, I realized they’re more like *guidelines* than strict rules, born from decades of developers solving the same problems in elegant ways. They’re not about memorizing templates but understanding why certain structures work and when to apply them.
+When I first heard the term *design patterns*, I imagined something rigid — like cookie-cutter solutions that programmers copy and paste into their code. But as I explored further, I realized they’re more like *guidelines* than strict rules, born from decades of developers solving the same problems in elegant ways. They’re not about memorizing templates but understanding why certain structures work and when to apply them.
+
+<br><br>
 
 ## Patterns as Shared Vocabulary
 
@@ -36,3 +38,7 @@ Even if I don’t use every pattern right away, studying them has changed how I 
 ## Patterns as a Mindset, Not a Checklist
 
 I’m still at the beginning of my journey with design patterns. Right now, I’m focusing on understanding the core ones — not to memorize them, but to recognize when they fit naturally. The best code doesn’t scream, "*Look, I used a design pattern!*" — it just works cleanly, and patterns are the silent helpers making that possible.
+
+<br><br>
+
+The essay above used ChatGPT for spelling and grammar correction/suggestions.
