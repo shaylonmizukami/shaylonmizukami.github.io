@@ -10,7 +10,7 @@ labels:
   - architecture
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/DesignPatterns.png">
 
 When I first encountered design patterns in my studies, I struggled to see their relevance to my interests in game development and RF engineering. They seemed like abstract concepts far removed from the real-time systems and signal processing I worked with. However, as I delved deeper into both fields, I discovered design patterns are just as crucial in these domains as in enterprise software - they just manifest differently.
 
