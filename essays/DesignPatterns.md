@@ -50,4 +50,4 @@ Moving forward, I'm focusing on how patterns solve real problems in these domain
 
 <br><br>
 
-The essay above used ChatGPT for spelling and grammar correction/suggestions.
+The essay above used DeepSeek for spelling and grammar correction/suggestions.
