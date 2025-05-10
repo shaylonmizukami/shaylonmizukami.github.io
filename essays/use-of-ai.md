@@ -46,12 +46,12 @@ Challenges included occasional inaccurate or incomplete AI responses, which coul
 
 ## Comparative Analysis
 
-| Aspect              | Traditional Methods                       | AI‑Enhanced Approaches                     |
-| ------------------- | ----------------------------------------- | ------------------------------------------ |
-| Engagement          | In‑person lectures, peer discussion       | Interactive prompts, 24/7 accessibility    |
-| Knowledge retention | Struggle‑then‑learn model (deep but slow) | Quick wins but risk of surface learning    |
-| Skill development   | Manual coding and debugging               | Rapid prototyping, less low‑level practice |
-| \`\`\`              |                                           |                                            |
+| Aspect                          | Traditional Methods                                   | AI‑Enhanced Approaches                     |
+| -------------------             | -----------------------------------------             | ------------------------------------------ |
+| Engagement                      | In‑person lectures, peer discussion                   | Interactive prompts, 24/7 accessibility    |
+| Knowledge retention             | Struggle‑then‑learn model (deep but slow)             | Quick wins but risk of surface learning    |
+| Skill development               | Manual coding and debugging                           | Rapid prototyping, less low‑level practice |
+|                                 |                                                       |                                            |
 
 Traditional teaching fosters deep problem‑solving skills through manual struggle, while AI enables rapid iteration and reduces tedium—but must be balanced with intentional practice to ensure lasting understanding.
 
