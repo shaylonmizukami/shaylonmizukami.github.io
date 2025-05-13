@@ -14,6 +14,8 @@ labels:
 
 Software engineering is much more than learning the ins and outs of a particular web framework or language. While this course’s technology stack focused on building web applications, its deeper purpose was to immerse us in timeless and broadly applicable practices that underpin successful software projects of any kind. In this reflection, I will explore Configuration Management, Agile Project Management (specifically Issue-Driven Project Management), and Design Patterns—defining each term and illustrating how I can apply these concepts beyond web development.
 
+<br>
+
 ## Configuration Management
 
 At its heart, configuration management (CM) is the discipline of systematically organizing and controlling all the artifacts of a software project—source code, documentation, build scripts, deployment settings, and more. In practice, we used Git and GitHub to track every change, tag releases, and manage branches. But CM is equally critical in contexts as varied as:
@@ -36,13 +38,13 @@ This approach is not limited to web apps. For example, in a robotics project, is
 
 Design patterns are proven, reusable solutions to common design challenges in software. They capture best practices at the level of object collaborations and code structure. In our web application work we encountered patterns such as:
 
-  - Model–View–Controller (MVC), which cleanly separates data (Model), user interface (View), and control flow (Controller).
-  - Factory and Singleton, which manage object creation and enforce controlled access to shared resources.
+  - **Model–View–Controller (MVC)**, which cleanly separates data (Model), user interface (View), and control flow (Controller).
+  - **Factory** and **Singleton**, which manage object creation and enforce controlled access to shared resources.
 
 Design patterns shine beyond web frameworks. For instance:
-  - In desktop GUI applications, MVC (or its variants like MVP/MVVM) ensures that UI code remains decoupled from business logic, making it easier to test and maintain.
-  - In distributed systems, the Observer pattern underlies publish–subscribe messaging, where services subscribe to events emitted by other components.
-  - In game development, the State pattern helps manage an entity’s different behaviors (idle, walking, attacking) without massive conditional logic.
+  - In **desktop GUI applications**, MVC (or its variants like MVP/MVVM) ensures that UI code remains decoupled from business logic, making it easier to test and maintain.
+  - In **distributed systems**, the Observer pattern underlies publish–subscribe messaging, where services subscribe to events emitted by other components.
+  - In **game development**, the State pattern helps manage an entity’s different behaviors (idle, walking, attacking) without massive conditional logic.
 
 By internalizing these patterns, I’m now equipped to recognize common structural problems and apply well-tested solutions rather than inventing ad-hoc approaches. This not only accelerates development but also makes codebases easier for new team members to understand.
 
