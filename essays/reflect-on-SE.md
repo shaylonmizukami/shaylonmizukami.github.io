@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/reflect-on-SE.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/reflect-on-SE.jpg">
 
 Software engineering is much more than learning the ins and outs of a particular web framework or language. While this course’s technology stack focused on building web applications, its deeper purpose was to immerse us in timeless and broadly applicable practices that underpin successful software projects of any kind. In this reflection, I will explore Configuration Management, Agile Project Management (specifically Issue-Driven Project Management), and Design Patterns—defining each term and illustrating how I can apply these concepts beyond web development.
 
