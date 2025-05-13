@@ -12,11 +12,9 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/use-of-ai.png">
 
-
-
 ## Introduction
 
-Artificial Intelligence (AI) has rapidly become a transformative force in education, offering students and instructors alike new ways to teach, learn, and collaborate. In the realm of Software Engineering—where problem solving, code quality, and effective documentation are paramount—AI tools have proven particularly relevant. Over the past semester in ICS 314, I’ve incorporated a variety of AI-driven assistants into my workflow, including ChatGPT for conversational guidance, GitHub Copilot for code completion, and diagram‑generation features in Bard and Co‑Pilot. In this essay, I’ll reflect on how these tools shaped my experience in ICS 314, from tackling “WOD” practice problems to composing essays and architecting my final project.
+Artificial Intelligence (AI) has rapidly become a transformative force in education, offering students and instructors alike new ways to teach, learn, and collaborate. In the realm of Software Engineering—where problem solving, code quality, and effective documentation are paramount—AI tools have proven particularly relevant. Over the past semester in ICS 314, I’ve incorporated a variety of AI-driven assistants into my workflow, including ChatGPT for conversational guidance, GitHub Copilot for code completion, and diagram‑generation features in Bard and Co‑Pilot.
 
 ## Personal Experience with AI
 
