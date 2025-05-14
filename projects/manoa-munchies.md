@@ -3,12 +3,12 @@ layout: project
 type: project
 image: img/manoa-munchies-square.png
 title: "Manoa Munchies Web Application"
-date: 2024
+date: 2025
 published: true
 labels:
-  - C++
-  - Unreal Engine
-  - Game
+  - Web Application
+  - Vercel
+  - Food
 summary: "A web application to provide information on vendor locations around UH Manoa's campus."
 ---
 
@@ -21,7 +21,7 @@ The vendors are able to create an account and upload their vendor on the page, p
 In this project I gained experience with software engineering, web application development, and user interface customization/editing with a group of students.
 
 Here are images of the website:
-
+Home Page:
 <img class="img-fluid" src="../img/manoa-munchies.png">
 <br><br>
 User Page:
