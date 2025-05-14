@@ -23,8 +23,10 @@ In this project I gained experience with software engineering, web application d
 Here are images of the website:
 
 <img class="img-fluid" src="../img/manoa-munchies.png">
-<br>
+<br><br>
+User Page:
 <img class="img-fluid" src="../img/manoa-munchies-user.png">
-<br>
+<br><br>
+Vendor Page:
 <img class="img-fluid" src="../img/manoa-munchies-vendor.png">
 
