@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-munchies.png
+image: img/manoa-munchies-square.png
 title: "Manoa Munchies Web Application"
 date: 2024
 published: true
