@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/manoa-munchies-square.png
-title: "Manoa Munchies Web Application"
+image: img/rcs-reference.png
+title: "ECG Monitoring Using Radar"
 date: 2025
 published: true
 labels:
